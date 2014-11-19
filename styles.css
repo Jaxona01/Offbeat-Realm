@@ -1,10 +1,12 @@
 body{
-  background-color:limegreen;
+  background-color: lightcyan;
 }
 h1{
-  color: purple;
-  font-family: Impact;
+  color: blue;
+  font-family: sans-serif;
+  text-align: center; 
+
 }
 #video{
-  margin-left:300px;
+  margin-left: 400px;
 }
